@@ -12,9 +12,9 @@ This project involves analyzing sales trends and performance data using Python.T
 
 * Top Products Analysis: Identification of the top 5 performing products.
 
---Discount Impact: Histogram illustrating the distribution of discounts.
+* Discount Impact: Histogram illustrating the distribution of discounts.
 
---Interactive Dashboard: Built with Streamlit to provide a dynamic and user-friendly interface.
+* Interactive Dashboard: Built with Streamlit to provide a dynamic and user-friendly interface.
 
 # Tools and Technologies
 
