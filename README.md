@@ -1,10 +1,10 @@
-### Sales Analytics Project
+# Sales Analytics Project
 
-# Project Overview
+## Project Overview
 
 This project involves analyzing sales trends and performance data using Python.The objective is to provide actionable insights into sales trends, regional performance, product contributions, and discount impacts to help businesses optimize their sales strategies.
 
-# Key Features
+## Key Features
 
 * Sales Trend Analysis: Monthly trends visualized using line charts.
 
@@ -16,7 +16,7 @@ This project involves analyzing sales trends and performance data using Python.T
 
 * Interactive Dashboard: Built with Streamlit to provide a dynamic and user-friendly interface.
 
-# Tools and Technologies
+## Tools and Technologies
 
 * Programming Language: Python
 
@@ -26,7 +26,7 @@ This project involves analyzing sales trends and performance data using Python.T
 
 * Visualization: Interactive charts and graphs
 
-# Dataset
+## Dataset
 
 * Created Sales_trend_dataset using python
 
@@ -36,7 +36,7 @@ This project involves analyzing sales trends and performance data using Python.T
 
 * Description: This dataset contains sales data, including transaction ID, date, customer details, region, product information, quantity sold, price per unit, discounts, and total sales.
 
-# Key Insights
+## Key Insights
 
 * Seasonal Trends: Sales peaks observed during December and March.
 
@@ -47,6 +47,6 @@ This project involves analyzing sales trends and performance data using Python.T
 * Discount Analysis: Discounts between 20-30% drive the highest sales volume.
 
 
-# Conclusion
+## Conclusion
 
 This project provides a robust framework for analyzing sales data and extracting actionable insights. The interactive dashboard enables businesses to make data-driven decisions efficiently.
