@@ -1,4 +1,4 @@
-# Sales Analytics Project
+# Sales Analysis Project
 
 ## Project Overview
 
