@@ -45,7 +45,7 @@ This project involves analyzing sales trends and performance data using Python.T
 * Product Insights: Laptops and Shirts dominate sales, accounting for 40% of revenue.
 
 * Discount Analysis: Discounts between 20-30% drive the highest sales volume.
-* Stramlit app visual : https://bit.ly/Streamlit_app
+* Stramlit app visual : https://bit.ly/streamlit_visual
 
 
 ## Conclusion
